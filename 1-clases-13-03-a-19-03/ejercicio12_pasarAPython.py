@@ -1,0 +1,1 @@
+#Ejercicio 12: Pasar los ejercicios 2,3,4 y 5 a Python.
